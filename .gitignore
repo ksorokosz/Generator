@@ -1,0 +1,5 @@
+.metadata
+*~
+*.o
+Generator-Source/Debug/*
+*.class
